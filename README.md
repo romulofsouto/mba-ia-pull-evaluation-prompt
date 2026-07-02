@@ -26,8 +26,9 @@ https://smith.langchain.com/hub/romulofsouto/bug_to_user_story_v2
 - Screenshots das avaliações com as notas mínimas de 0.8 atingidas
 ![alt text](image.png)
 
-![alt text](image-15.png)
+- Tabela comparativa: prompts ruins (v1) vs prompts otimizados (v2)
 
+![alt text](image-15.png)
 
 **C) Seção "Como Executar":**
 
